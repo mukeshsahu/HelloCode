@@ -15,7 +15,7 @@ namespace HelloCode.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Productive Application Works.";
 
             return View();
         }
